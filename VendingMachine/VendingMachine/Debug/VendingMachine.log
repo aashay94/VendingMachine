@@ -1,0 +1,10 @@
+﻿  Drink.cpp
+  Vending.cpp
+C:\Users\aasha\Downloads\VendingMachine\VendingMachine\Vending.cpp(175,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aasha\Downloads\VendingMachine\VendingMachine\Vending.cpp(216,13): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\aasha\Downloads\VendingMachine\VendingMachine\Vending.cpp(234,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aasha\Downloads\VendingMachine\VendingMachine\Vending.cpp(240,10): warning C4018: '>': signed/unsigned mismatch
+C:\Users\aasha\Downloads\VendingMachine\VendingMachine\Vending.cpp(278,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  VendingMachine.cpp
+  Generating Code...
+  VendingMachine.vcxproj -> C:\Users\aasha\Downloads\VendingMachine\Debug\VendingMachine.exe
